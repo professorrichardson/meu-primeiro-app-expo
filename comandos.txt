@@ -17,3 +17,9 @@ npx expo install react-dom react-native-web @expo/metro-runtime
 
 
 src/componentes/telas/Cesta/index.js - 30/09
+
+corrigir safeareawier
+
+npm install react-native-safe-area-context  -> instalar a biblioteca para usar o safe area
+
+import { SafeAreaView } from "react-native-safe-area-context";
