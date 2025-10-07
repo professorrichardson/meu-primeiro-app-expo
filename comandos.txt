@@ -23,3 +23,11 @@ corrigir safeareawier
 npm install react-native-safe-area-context  -> instalar a biblioteca para usar o safe area
 
 import { SafeAreaView } from "react-native-safe-area-context";
+
+
+instalar material icon para visualizar melhor os icons
+
+ajustar as pastas 
+
+criar arquivos faltantes se der tempo de fazer todos 
+
